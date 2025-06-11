@@ -18,7 +18,8 @@ else:
  print("Number 4 is greatest", n4)
 
 
-#qns 2 student has passed if it requires 40% in total and atleast 33% to pass in each subject. Assume 3 subjects and take marks as input
+#qns 2 student has passed if it requires 40% in total and atleast 33% to pass in each subject. Assume 3 subjects 
+#and take marks as input
 
 marks1 = int(input("Enter marks of subject 1 : "))
 marks2 = int(input("Enter marks of subject 2 : "))
