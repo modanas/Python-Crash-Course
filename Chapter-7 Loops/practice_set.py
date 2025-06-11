@@ -13,7 +13,7 @@ for i in name :
  if(i.startswith("S")) :
   print(f"Hello {i}")
   
-#qsn3 progrsm to print the multiples of a number using while loop
+#qsn3 program to print the multiples of a number using while loop
 
 n = int(input("Enter a number : "))
 
