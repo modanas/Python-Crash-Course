@@ -1,0 +1,1 @@
+#program to remove a word from the list and strip at the same time
